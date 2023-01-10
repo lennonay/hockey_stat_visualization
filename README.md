@@ -21,3 +21,13 @@ conda env create -f hockeystat.yaml
 ```
 git clone https://github.com/lennonay/hockey_stat_visualization.git
 ```
+
+3. Downlaod Data
+```
+python src/download_data.py --url='https://hockeystatisticscom.files.wordpress.com/2022/10/game_statistics.xlsx?force_download=true' --out_file='data/raw/game_statistics.csv'
+```
+
+4. Preprocess data
+```
+python src/pen_preprocessing.py --data_location='data/raw/game_statistic∂s.csv' --output_location='data/processed/game_stat_2122.csv'
+```
