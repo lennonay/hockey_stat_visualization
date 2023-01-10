@@ -14,7 +14,7 @@ To replicate the analysis done in this project, you can follow the steps below:
 
 1. Create the environment using the following command
 ```
-conda env create -f hockeystat.yml
+conda env create -f hockeystat.yaml
 ```
 
 2. Clone the repository
