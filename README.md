@@ -4,7 +4,7 @@
 
 - Lennon Au-Yeung
 
-## About
+## Data
 
 The full data set was sourced from Hockey-Statistics and can be found [here](https://hockey-statistics.com/ls-gaa-2/). The xlsx format of the data can be directly downloaded using [this link](https://hockeystatisticscom.files.wordpress.com/2022/10/game_statistics.xlsx?force_download=true).
 
