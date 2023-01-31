@@ -1,4 +1,4 @@
-# hockey_stat_visualization
+# Hockey Stat Visualization
 
 ## Authors
 
